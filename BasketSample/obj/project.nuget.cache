@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkDByh2SgEk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.habibzadeh\\source\\repos\\BasketSample\\BasketSample\\BasketSample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://31.7.71.155:5700/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
